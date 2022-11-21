@@ -10,8 +10,9 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.6",
+    "create-react-app": "^1.2.1",
     "ethos-connect": "^0.0.33",
-    "next": "12.2.4",
+    "next": "^12.2.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
